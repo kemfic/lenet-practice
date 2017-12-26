@@ -1,4 +1,6 @@
 # CarND-LeNet-Lab
+Udacity's Practice Lab on Yann Lecun's "LeNet" convolutional neural network used to classify handwritten digits.
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 ![LeNet-5 Architecture](lenet.png)
